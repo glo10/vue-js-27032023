@@ -21,4 +21,4 @@ Affichez les informations suivantes :
 
 ## Illustration
 
-![img/mockup-ex3.png]()
+![mockup](img/mockup-ex3.png)
