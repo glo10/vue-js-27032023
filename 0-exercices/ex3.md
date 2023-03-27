@@ -1,5 +1,12 @@
 # Exercice 3
 
+--- 
+
+## Modalité
+
+- Au départ, la partie affichage n'est pas visible à l'écran, c'est uniquement lorsque l'utilisateur saisit au moins une donnée que cette partie devient visible.
+- Idem pour les technos, c'est-à-dire, tant qu'aucune techno a été ajoutée, la partie dédiée à l'affichage de technos ne doit pas être visible.
+
 ---
 
 ## Enoncé
@@ -16,6 +23,7 @@ Affichez les informations suivantes :
 - Prénom
 - Si l'âge est supérieur ou égal à 18 ans, affichez le message "vous êtes majeur(e)", sinon affichez "Vous êtes mineur(e)"
 - Sous forme de liste à puces, les langages et technos préférées.
+
 
 ---
 
